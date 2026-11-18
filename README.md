@@ -127,4 +127,4 @@ hass_autoconfig_sensors = ess/home/statistics/pcs_pv_total_power,ess/home/statis
 ```
 
 ## Sensor (Home Assistant entity integration)
-Here you can find a german example for the sensor configuration in Home Assistant Energy Dashboard: [/configurations/sensor.yaml](https://github.com/n3096/lgess2mqtt/blob/main/configurations/sensor.yaml) (copy of [Buktahuala/hassio-addons](https://github.com/Buktahula/hassio-addons/tree/main/LG_ESS/sensor.yaml))
+Here you can find a german example for the sensor configuration in Home Assistant Energy Dashboard: [/configurations/sensor.yaml](https://github.com/philippwilke/lgess2mqtt/blob/main/configurations/sensor.yaml) (copy of [Buktahuala/hassio-addons](https://github.com/Buktahula/hassio-addons/tree/main/LG_ESS/sensor.yaml))
